@@ -16,6 +16,9 @@ export const metadata = {
     shortcut: '/logo.png',
     apple: '/logo.png',
   },
+  verification: {
+    google: "OaGpPoPDI5fy5ynAgsOIyEv3dEEh06YBunYLqmCxCQU",
+  },
 };
 
 export default function RootLayout({ children }) {

@@ -6,14 +6,14 @@ export default function Home() {
     "@graph": [
       {
         "@type": "WebSite",
-        "url": "https://your-domain.com",
+        "url": "https://jsongrandpa.vercel.app",
         "name": "JSON Grandpa",
         "description": "JSON Grandpa — fast, private online JSON Validator and Formatter."
       },
       {
         "@type": "WebApplication",
         "name": "JSON Validator",
-        "url": "https://your-domain.com/json-validator",
+        "url": "https://jsongrandpa.vercel.app/json-validator",
         "applicationCategory": "DeveloperApplication",
         "operatingSystem": "All"
       },
@@ -21,8 +21,8 @@ export default function Home() {
         "@type": "Organization",
         "name": "JSON Grandpa",
         "alternateName": "JSON Validator Grandpa",
-        "url": "https://your-domain.com",
-        "logo": "https://your-domain.com/logo.png",
+        "url": "https://jsongrandpa.vercel.app",
+        "logo": "https://jsongrandpa.vercel.app/logo.png",
         "sameAs": [
           "https://github.com/jsongrandpa",
           "https://twitter.com/jsongrandpa",

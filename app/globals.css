@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-orange: #FF8C42;
+  --color-brand-charcoal: #2B2B2B;
+  --color-brand-offwhite: #FFFFFF;
+}
+
+:root {
+  --background: #FFFFFF;
+  --foreground: #2B2B2B;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-inter), sans-serif;
+}

@@ -1,0 +1,19 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Left Brace -->
+  <path d="M70 40C50 40 50 80 50 100C50 120 50 160 70 160" stroke="#FF8C42" stroke-width="16" stroke-linecap="round"/>
+  <path d="M60 100H40" stroke="#FF8C42" stroke-width="16" stroke-linecap="round"/>
+  
+  <!-- Right Brace -->
+  <path d="M130 40C150 40 150 80 150 100C150 120 150 160 130 160" stroke="#FF8C42" stroke-width="16" stroke-linecap="round"/>
+  <path d="M140 100H160" stroke="#FF8C42" stroke-width="16" stroke-linecap="round"/>
+  
+  <!-- Grandpa Head -->
+  <g transform="translate(150, 140)">
+    <circle cx="0" cy="0" r="25" fill="#FFE0BD"/>
+    <path d="M-25 -5C-25 -25 25 -25 25 -5" fill="white"/>
+    <circle cx="-10" cy="5" r="8" fill="white" stroke="#2B2B2B" stroke-width="2"/>
+    <circle cx="10" cy="5" r="8" fill="white" stroke="#2B2B2B" stroke-width="2"/>
+    <line x1="-2" y1="5" x2="2" y2="5" stroke="#2B2B2B" stroke-width="2"/>
+    <path d="M-15 20Q0 30 15 20" stroke="white" stroke-width="4" fill="none"/>
+  </g>
+</svg>
